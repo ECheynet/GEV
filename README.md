@@ -1,4 +1,4 @@
-# GEV
+# Short introduction to the Generalized Extreme Values (GEV) distribution
 The GEV distribution is calculated with and without the Matlab statistical toolbox for wind data
 
 
